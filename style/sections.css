@@ -35,7 +35,7 @@
   header {
     text-align: center;
   }
-  
+
   background: no-repeat top center/cover var(--bg-contacts);
   width: 100%;
   place-content: center;
